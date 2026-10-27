@@ -24,7 +24,7 @@ Alongside my studies, I work as a **Database Student Assistant** at NWU, support
 | **[STEPPA · FNB App of the Year Hackathon 2026](https://github.com/OratileNwu/Steppa)** | Collaborated on a neighbourhood errand platform. My focus was the **Stepper (requester) home dashboard**, using **React Native, TypeScript, Expo and Firebase**. |
 | **[Network Design & IPv6 Routing](https://github.com/MbasaB/CMPG-325-NETWORK-PROJECT)** | Designed and documented Cisco Packet Tracer simulations covering **network topologies, VLANs, IPv4/IPv6 and EIGRP**. |
 | **[Student Performance Dashboard](https://github.com/MbasaB/Student-Perfomance-Analysis)** | Built an interactive **Excel dashboard** with Pivot Tables, KPI cards, charts and slicers to explore student performance. |
-| **[Nexus Job Portal Prototype](https://github.com/MbasaB/tes)** | Developed a **HTML/CSS/JavaScript** front-end prototype featuring sample job listings, account forms and interview scheduling UI. |
+| **[Personal Profile Card](https://github.com/MbasaB/project2)** | Built an **HTML/CSS** profile webpage to practise responsive layouts, styling and interactive hover effects. |
 | **[Billionaires Dataset Analysis](https://github.com/MbasaB/Billionaire-Dataset-Analysis)** | Explored a historical dataset using **Excel**, data cleaning, descriptive statistics and Pivot Tables. |
 
 ### Technical toolkit
