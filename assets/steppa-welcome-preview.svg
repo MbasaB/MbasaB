@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="650" viewBox="0 0 640 650" role="img" aria-label="Welcome: illustration based on STEPPA application screens">
+<defs>
+<linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d3028"/><stop offset=".6" stop-color="#124f3b"/><stop offset="1" stop-color="#0a282b"/></linearGradient>
+<radialGradient id="halo"><stop offset="0" stop-color="#6ee7b7" stop-opacity=".28"/><stop offset="1" stop-color="#6ee7b7" stop-opacity="0"/></radialGradient>
+<filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="15" stdDeviation="16" flood-color="#031b18" flood-opacity=".44"/></filter>
+<pattern id="p" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" opacity=".09"/></pattern>
+</defs>
+<rect x="0" y="0" width="640" height="650" rx="24" fill="url(#back)"/>
+<rect x="0" y="0" width="640" height="650" rx="24" fill="url(#p)"/>
+<circle cx="280" cy="300" r="260" fill="url(#halo)"/>
+<text x="320" y="89" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#f3fbf7" font-weight="bold" >WELCOME</text>
+<text x="321" y="122" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#a9dfca" font-weight="normal" >Role selection · Entry screen</text>
+<rect x="54" y="52" width="253" height="542" rx="31" fill="#0c1818" stroke="#1a2e2a" stroke-width="3"/>
+<rect x="65" y="63" width="231" height="520" rx="24" fill="#ffffff"/>
+<rect x="139" y="70" width="82" height="18" rx="10" fill="#0c1818"/>
+<text x="83" y="91" font-family="Arial,Helvetica,sans-serif" font-size="10" fill="#1a2b25" font-weight="bold" >9:41</text>
+<rect x="263" y="81" width="13" height="7" rx="2" fill="#1a2b25"/>
+
+<text x="180" y="126" font-family="Arial,Helvetica,sans-serif" font-size="26" fill="#176B45" font-weight="bold" text-anchor="middle" letter-spacing="1.3">STEPPA</text>
+<text x="180" y="144" font-family="Arial,Helvetica,sans-serif" font-size="7.8" fill="#176B45" font-weight="bold" text-anchor="middle" letter-spacing="1">YOUR NEIGHBOURHOOD. ON THE MOVE.</text>
+<circle cx="181" cy="239" r="80" fill="#e5f5ec"/>
+<circle cx="148" cy="220" r="15" fill="#176B45"/>
+<circle cx="209" cy="211" r="13" fill="#6bba8c"/>
+<rect x="130" y="239" width="108" height="15" rx="7" fill="#b8deca"/>
+<rect x="143" y="261" width="77" height="12" rx="6" fill="#cae9d6"/>
+<path d="M150 206q30-32 68-12" fill="none" stroke="#69b78b" stroke-width="6" stroke-linecap="round" />
+<path d="M211 186l11 7-11 7" fill="none" stroke="#69b78b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="181" y="339" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#1f2937" font-weight="bold" text-anchor="middle">Everyday errands,</text>
+<text x="181" y="359" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#1f2937" font-weight="normal" text-anchor="middle">handled by your neighbourhood.</text>
+<text x="181" y="392" font-family="Arial,Helvetica,sans-serif" font-size="9.5" fill="#64748b" font-weight="normal" text-anchor="middle">Get local help, or earn by helping nearby.</text>
+<rect x="86" y="428" width="189" height="43" rx="12" fill="#176B45"/>
+<text x="181" y="454" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#ffffff" font-weight="bold" text-anchor="middle">I need an errand  →</text>
+<rect x="86" y="481" width="189" height="43" rx="12" fill="#ffffff" stroke="#176B45" stroke-width="1.5"/>
+<text x="181" y="507" font-family="Arial,Helvetica,sans-serif" font-size="11.5" fill="#176B45" font-weight="bold" text-anchor="middle">I want to run errands</text>
+<text x="181" y="554" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#176B45" font-weight="bold" text-anchor="middle">Explore demo</text>
+<rect x="317" y="232" width="258" height="2" rx="1" fill="#53b893"/>
+<text x="320" y="271" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#99ecd0" font-weight="bold" letter-spacing="1.8">WHAT USERS SEE</text>
+<text x="320" y="315" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#e9fff4" font-weight="bold" >Two clear paths</text>
+<text x="320" y="347" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#e9fff4" font-weight="normal" >One neighbourhood</text>
+<text x="320" y="379" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#e9fff4" font-weight="normal" >Everyday tasks,</text>
+<text x="320" y="411" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#e9fff4" font-weight="normal" >made easier</text>
+<rect x="320" y="500" width="228" height="48" rx="13" fill="#d0fae2"/>
+<text x="338" y="532" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#06462c" font-weight="bold" >Explore the live demo  →</text>
+<text x="320" y="588" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#a0c4b4" font-weight="normal" >STEPPA  ·  Team hackathon project</text>
+</svg>
