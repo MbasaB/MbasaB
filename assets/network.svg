@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="215" viewBox="0 0 580 215" role="img" aria-label="Network Design project card">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#1d3147"/></linearGradient><radialGradient id="b"><stop offset="0" stop-color="#1e4e9b" stop-opacity=".43"/><stop offset="1" stop-color="#1e4e9b" stop-opacity="0"/></radialGradient></defs>
+<rect width="580" height="215" rx="20" fill="url(#a)"/>
+<circle cx="530" cy="80" r="165" fill="url(#b)"/>
+<path d="M0 0h7v215H0z" fill="#60a5fa"/>
+<rect x="29" y="23" width="113" height="28" rx="14" fill="#1e4e9b" opacity=".63"/>
+<text x="43" y="42" fill="#ffffff" font-size="12" font-family="Arial,sans-serif" font-weight="bold" letter-spacing="1">NETWORKS</text>
+<text x="31" y="78" fill="#60a5fa" font-size="12" font-family="Arial,sans-serif" letter-spacing="1.1" font-weight="bold">COMPUTER NETWORKS  /  SIMULATION</text>
+<text x="29" y="122" fill="#ffffff" font-family="Arial,sans-serif" font-weight="bold" font-size="31">Network Design</text>
+<text x="31" y="150" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="16">Topologies, VLANs, IPv6 and EIGRP routing.</text>
+<line x1="31" y1="167" x2="548" y2="167" stroke="#64748b" opacity=".5"/>
+<text x="31" y="194" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="13" letter-spacing=".3">CISCO PACKET TRACER   ·   IPV4 / IPV6</text>
+<path d="M522 32h21m-10-10 10 10-10 10" fill="none" stroke="#60a5fa" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
