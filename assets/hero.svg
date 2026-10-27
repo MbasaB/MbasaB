@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Mbasa Besong, Computer Science graduate and Honours student">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b172a"/><stop offset=".62" stop-color="#102c40"/><stop offset="1" stop-color="#134b50"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#38bdf8" stop-opacity=".22"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+<pattern id="dots" x="0" y="0" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#94a3b8" opacity=".16"/></pattern>
+</defs>
+<rect x="0" y="0" width="1200" height="300" rx="22" fill="url(#bg)"/>
+<rect x="0" y="0" width="1200" height="300" rx="22" fill="url(#dots)"/>
+<circle cx="950" cy="135" r="240" fill="url(#glow)"/>
+<rect x="44" y="40" rx="9" width="228" height="32" fill="#1a4d55" stroke="#2d7f87" stroke-width="1"/>
+<circle cx="62" cy="56" r="5" fill="#5eead4"/>
+<text x="78" y="62" font-family="Arial, sans-serif" font-size="14" font-weight="bold" letter-spacing="1.4" fill="#b9f9eb">DEVELOPER PORTFOLIO</text>
+<text x="45" y="146" font-family="Arial, sans-serif" font-size="62" font-weight="bold" fill="#f8fafc">Mbasa Besong</text>
+<rect x="45" y="166" width="58" height="5" rx="2.5" fill="#2dd4bf"/>
+<text x="45" y="205" font-family="Arial, sans-serif" font-size="24" fill="#d9e8f4">Software Development  /  Data Analytics  /  Networks</text>
+<rect x="45" y="228" rx="14" width="386" height="39" fill="#183a49" stroke="#2c7880"/>
+<circle cx="66" cy="248" r="6" fill="#5eead4"/>
+<text x="83" y="255" font-family="Arial, sans-serif" font-size="17" font-weight="bold" fill="#e5faf6">OPEN TO GRADUATE OPPORTUNITIES</text>
+<g opacity=".88">
+<rect x="873" y="55" width="268" height="194" rx="16" fill="#10273c" stroke="#3b6474" stroke-width="2"/>
+<circle cx="898" cy="77" r="5" fill="#fb7185"/><circle cx="916" cy="77" r="5" fill="#fbbf24"/><circle cx="934" cy="77" r="5" fill="#34d399"/>
+<line x1="889" y1="93" x2="1125" y2="93" stroke="#376078"/>
+<text x="896" y="129" font-family="Consolas,monospace" font-size="17" fill="#7dd3fc">const future = {</text>
+<text x="911" y="157" font-family="Consolas,monospace" font-size="17" fill="#a7f3d0">build: "software",</text>
+<text x="911" y="185" font-family="Consolas,monospace" font-size="17" fill="#a7f3d0">explore: "data",</text>
+<text x="911" y="213" font-family="Consolas,monospace" font-size="17" fill="#a7f3d0">learn: true</text>
+<text x="896" y="235" font-family="Consolas,monospace" font-size="17" fill="#7dd3fc">};</text>
+</g>
+</svg>
