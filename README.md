@@ -52,22 +52,33 @@ Software development. Data analytics. Solving real problems.
 
 <sub>STEPPA was developed as a team entry for the FNB App of the Year Hackathon 2026. My main contribution was the requester (Stepper) home dashboard. Click any card to explore the project.</sub>
 
-## GitHub at a glance
+## STEPPA · See the product
 
 <div align="center">
 
-<a href="https://github.com/MbasaB">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MbasaB&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="Mbasa's GitHub statistics" />
-</a>
-<a href="https://github.com/MbasaB?tab=repositories">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MbasaB&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used languages in public GitHub repositories" />
-</a>
+<a href="https://github.com/OratileNwu/Steppa"><img src="https://raw.githubusercontent.com/OratileNwu/Steppa/main/assets/steppa-auth/logo.png" alt="Official STEPPA app logo from the team repository" width="145" /></a>
 
-<br/>
+**Your Neighbourhood. On the Move.**
 
-<img width="73%" src="https://streak-stats.demolab.com?user=MbasaB&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak statistics" />
+A team-built neighbourhood errand app developed for the **FNB App of the Year Hackathon 2026**.
+
+<a href="https://steppa.onrender.com"><img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-176B45?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open STEPPA web demonstration" /></a>
+<a href="https://github.com/OratileNwu/Steppa"><img src="https://img.shields.io/badge/VIEW%20SOURCE-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="View STEPPA project source code" /></a>
 
 </div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://steppa.onrender.com"><img src="assets/steppa-welcome-preview.svg" alt="Illustrated preview of STEPPA welcome and role selection screen" width="100%" /></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/OratileNwu/Steppa"><img src="assets/steppa-dashboard-preview.svg" alt="Illustrated preview of the STEPPA requester home dashboard" width="100%" /></a>
+</td>
+</tr>
+</table>
+
+<sub>Visual illustrations based on STEPPA's current welcome and requester dashboard source code — not captured app screenshots. My focus was the requester dashboard. STEPPA is a team project and the demo is a work in progress.</sub>
 
 ## Beyond the code
 
